@@ -1,0 +1,10 @@
+C:\Users\Lucho\source\repos\JAPShare\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\Lucho\source\repos\JAPShare\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\Lucho\source\repos\JAPShare\CapaLogica\bin\Debug\CapaDatos.dll
+C:\Users\Lucho\source\repos\JAPShare\CapaLogica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Lucho\source\repos\JAPShare\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\Users\Lucho\source\repos\JAPShare\CapaLogica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Lucho\source\repos\JAPShare\CapaLogica\obj\Debug\CapaLogica.csprojResolveAssemblyReference.cache
+C:\Users\Lucho\source\repos\JAPShare\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\Lucho\source\repos\JAPShare\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\Lucho\source\repos\JAPShare\CapaLogica\obj\Debug\CapaLogica.pdb

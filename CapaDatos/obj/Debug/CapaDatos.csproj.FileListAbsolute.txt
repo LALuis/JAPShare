@@ -1,0 +1,8 @@
+C:\Users\Lucho\source\repos\JAPShare\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Lucho\source\repos\JAPShare\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Lucho\source\repos\JAPShare\CapaDatos\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Lucho\source\repos\JAPShare\CapaDatos\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Lucho\source\repos\JAPShare\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Lucho\source\repos\JAPShare\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Lucho\source\repos\JAPShare\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Lucho\source\repos\JAPShare\CapaDatos\obj\Debug\CapaDatos.pdb

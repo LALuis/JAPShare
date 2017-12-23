@@ -1,0 +1,6 @@
+C:\Users\Lucho\source\repos\JAPShare\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Lucho\source\repos\JAPShare\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Lucho\source\repos\JAPShare\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.csprojResolveAssemblyReference.cache
+C:\Users\Lucho\source\repos\JAPShare\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.csproj.CoreCompileInputs.cache
+C:\Users\Lucho\source\repos\JAPShare\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\Lucho\source\repos\JAPShare\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
