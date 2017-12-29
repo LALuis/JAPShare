@@ -1,12 +1,12 @@
 # JAPShare
-Proyecto en conjunto del grupo 21(Cerro) de Jovenes a Programar.
+Proyecto en conjunto de alumnos graduados de .NET en Plan Ceibal.
 
 # Que es JAPShare?
 JapShare es una plataforma Open-Source, donde todos los interesados podran participar en la 
 planificacion y desarrollo de la misma.
 
 # Para que servira?
-Con esta plataforma, se busca tener centralizado en un mismo espacio, los proyectos, preguntas y problemas
+Con esta plataforma, se busca tener centralizado en un mismo espacio, los proyectos, preguntas y problemas y soluciones
 que los alumnos tengan con respecto a ejercicios practicos o proyectos en conjunto que esten creando.
 Tambien se pretende guardar un registro, de las preguntas en que los estudiantes participen, en los proyectos en los que colaboren
 y que de esta forma, se pueda generar un sistema de puntajes, con el cual se motive la creacion de proyectos conjuntos y la colaboracion 
