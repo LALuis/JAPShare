@@ -6,7 +6,7 @@ JapShare es una plataforma Open-Source, donde todos los interesados podran parti
 planificacion y desarrollo de la misma.
 
 # Para que servira?
-Con esta plataforma, se busca tener centralizado en un mismo espacio, los proyectos, preguntas y problemas y soluciones
+Con esta plataforma, se busca tener centralizado en un mismo espacio, los proyectos, preguntas, problemas y soluciones
 que los alumnos tengan con respecto a ejercicios practicos o proyectos en conjunto que esten creando.
 Tambien se pretende guardar un registro, de las preguntas en que los estudiantes participen, en los proyectos en los que colaboren
 y que de esta forma, se pueda generar un sistema de puntajes, con el cual se motive la creacion de proyectos conjuntos y la colaboracion 
